@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=othhfZ0mGjU
+https://angular.io/guide/service-worker-getting-started
